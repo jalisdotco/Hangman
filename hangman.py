@@ -9,7 +9,7 @@ words = random.choice(bank)
 guesses = 0
 end = 'game over'
 
-# change stuff
+# change
 print words
 #
 print guesses
